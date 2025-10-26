@@ -4,13 +4,14 @@
 
 .App-logo {
   height: 50vmin;
-  transition: opacity 1s ease;
+  transition: border 0.9s ease;
 
 }
 
 
 .App-logo:hover {
-    opacity: 0.3;
+    border: #00eaff 4px solid;
+    border-radius: 50%; ;
 }
 
 
